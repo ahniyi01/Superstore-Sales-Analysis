@@ -1,2 +1,2 @@
 # Superstore-Sales-Analysis
-The analysis of Superstore dataset is my first portfolio project as a Data Analyst. 
+This is a revenue and profit analysis of Superstore dataset for a period from 2014 to 2017. 
