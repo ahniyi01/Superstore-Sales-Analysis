@@ -57,4 +57,5 @@ Included the used of pivot tables and Excel formulas
 
 I created a dashboard on Excel to visualize my findings from the analysis perfomed on the dataset.
 
+![Dashboard](https://github.com/ahniyi01/Superstore-Sales-Analysis/assets/140920419/1e14339e-793c-4e7f-af6c-4162b4b45471)
 
